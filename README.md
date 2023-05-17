@@ -1,6 +1,7 @@
 # Scalable GIS for Urbanists
 
-Date: 22 May 2023, 09:00-17:00
+Date: 22 May 2023, 09:00-17:00 
+
 Location: TU Delft Library
 
 ## Program
