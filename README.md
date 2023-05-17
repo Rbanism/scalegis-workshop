@@ -18,7 +18,7 @@ Location: TU Delft Library
 | 12:30 | _Lunch break_ | | |
 | 13:30 | Tutorial 2: Scaled-up network analysis using the RS DAT framework | [Francesco Nattino](https://www.esciencecenter.nl/team/dr-francesco-nattino/) & [Ou Ku](https://www.esciencecenter.nl/team/ou-ku-msc/) | [Notebook]() |
 | 15:00 | _Coffee break_ | | |
-| 15:15 | Group work on scale-up assignment | [Claudiu Forgaci](https://www.esciencecenter.nl/claudiu-forgaci/) | Assignments |
+| 15:15 | Group work on scale-up assignment | [Claudiu Forgaci](https://www.esciencecenter.nl/claudiu-forgaci/) | [Assignments]() |
 | 16:45 | _Wrap-up & drinks_ | | |
 
 
