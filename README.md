@@ -24,4 +24,4 @@ Location: TU Delft Library
 
 ## Setup instructions
 
-The workshop will be carried out in a cloud environment in Jupyter Notebooks, so no local installation is required. Instructions on how to access that environment will be given during the workshop.
+The workshop will be carried out in a cloud environment in Jupyter Notebooks, so no local installation is required. Instructions on how to access that environment will be given during the workshop. Although no previous knowledge of the tools that will be presented at the workshop is required, we recommend participants to familiarise themselves with [Jupyter Notebooks](https://jupyter.org/).
