@@ -24,4 +24,4 @@ Location: TU Delft Library
 
 ## Setup instructions
 
-The workshop will be carried out in a cloud environment in Jupyter Notebooks, so no local installation is required. Instructions on how to access that environment will be given during the workshop. Although no previous knowledge of the tools that will be presented at the workshop is required, we recommend participants to familiarise themselves with [Jupyter Notebooks](https://jupyter.org/).
+In preparation to the Scalable GIS workshop on Monday, please carry out the setup instructions from the following link: https://github.com/RS-DAT/2023-05-22-scalable-GIS/blob/main/setup.md. Although you will make use of SURF infrastructure and work in [Jupyter Notebooks](https://jupyter.org/) in your web browser, you still need to have your computer set up according to those instructions. If you encounter issues with the setup, please come to the workshop at 9:00. We will be there to help you with that until 9:30 when the workshop starts.
