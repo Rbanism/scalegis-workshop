@@ -14,7 +14,7 @@ Location: TU Delft Library
 | 10:20 | Discussion about applications in urbanism | [Claudiu Forgaci](https://www.esciencecenter.nl/claudiu-forgaci/) | [Slides]() |
 | 10:30 | SURF infrastructure for large-scale data Processing | [Natalie Danezi](https://www.surf.nl/data-van-buitenaardse-proporties) | [Slides]() |
 | 10:45 | _Coffee break_ | | |
-| 11:00 | Tutorial 1: Scaling up the analysis of urban form | [Lukas Beuster](https://3d.bk.tudelft.nl/lbeuster/) | [Notebook]() |
+| 11:00 | Tutorial 1: Scaling up the analysis of urban form | [Lukas Beuster](https://3d.bk.tudelft.nl/lbeuster/) | [Notebook](https://github.com/lukasbeuster/3dgeo_scalable_gis) |
 | 12:30 | _Lunch break_ | | |
 | 13:30 | Tutorial 2: Scaled-up network analysis using the RS DAT framework | [Francesco Nattino](https://www.esciencecenter.nl/team/dr-francesco-nattino/) & [Ou Ku](https://www.esciencecenter.nl/team/ou-ku-msc/) | [Notebook]() |
 | 15:00 | _Coffee break_ | | |
