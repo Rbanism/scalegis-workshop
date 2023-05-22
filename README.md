@@ -10,9 +10,8 @@ Location: TU Delft Library
 |--:|:--|:--|:--|
 | 9:00 | _Walk-in_ | | |
 | 9:30 | Introduction | [Claudiu Forgaci](https://www.esciencecenter.nl/claudiu-forgaci/) | [Slides]() |
-| 9:35 | Introduction to big geodata and cloud computing infrastructure | [Serkan Girgin](https://people.utwente.nl/s.girgin) | [Slides]() |
-| 10:20 | Discussion about applications in urbanism | [Claudiu Forgaci](https://www.esciencecenter.nl/claudiu-forgaci/) | [Slides]() |
-| 10:30 | SURF infrastructure for large-scale data Processing | [Natalie Danezi](https://www.surf.nl/data-van-buitenaardse-proporties) | [Slides]() |
+| 9:35 | Geospatial Big Data and Cloud Computing at Scale | [Serkan Girgin](https://people.utwente.nl/s.girgin) | [Slides](https://doi.org/10.5281/zenodo.7957147) |
+| 10:30 | Computing at SURF | [Natalie Danezi](https://www.surf.nl/data-van-buitenaardse-proporties) | [Slides]() |
 | 10:45 | _Coffee break_ | | |
 | 11:00 | Tutorial 1: Scaling up the analysis of urban form | [Lukas Beuster](https://3d.bk.tudelft.nl/lbeuster/) | [Notebook](https://github.com/lukasbeuster/3dgeo_scalable_gis) |
 | 12:30 | _Lunch break_ | | |
