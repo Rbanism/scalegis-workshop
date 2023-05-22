@@ -16,7 +16,7 @@ Location: TU Delft Library
 | 10:45 | _Coffee break_ | | |
 | 11:00 | Tutorial 1: Scaling up the analysis of urban form | [Lukas Beuster](https://3d.bk.tudelft.nl/lbeuster/) | [Notebook](https://github.com/lukasbeuster/3dgeo_scalable_gis) |
 | 12:30 | _Lunch break_ | | |
-| 13:30 | Tutorial 2: Scaled-up network analysis using the RS DAT framework | [Francesco Nattino](https://www.esciencecenter.nl/team/dr-francesco-nattino/) & [Ou Ku](https://www.esciencecenter.nl/team/ou-ku-msc/) | [Notebook]() |
+| 13:30 | Tutorial 2: Scaled-up network analysis using the RS DAT framework | [Francesco Nattino](https://www.esciencecenter.nl/team/dr-francesco-nattino/) & [Ou Ku](https://www.esciencecenter.nl/team/ou-ku-msc/) | [Notebook](https://github.com/RS-DAT/2023-05-22-scalable-GIS) |
 | 15:00 | _Coffee break_ | | |
 | 15:15 | Group work on scale-up assignment | [Claudiu Forgaci](https://www.esciencecenter.nl/claudiu-forgaci/) | [Assignments]() |
 | 16:45 | _Wrap-up & drinks_ | | |
